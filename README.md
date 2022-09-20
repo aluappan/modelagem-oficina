@@ -1,4 +1,4 @@
-# modelagem-oficina
+# modelagem-oficina-conceitual
 Esquema conceitual para o contexto de oficina
 
     Esse esquema foi realizado levando em consideração a seguinte narrativa:
